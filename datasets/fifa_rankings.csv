@@ -1,0 +1,212 @@
+Position,Team,Points
+1,Germany,1533.00
+2,Brazil,1384.00
+3,Belgium,1346.00
+4,Portugal,1306.00
+5,Argentina,1254.00
+6,Switzerland,1179.00
+7,France,1166.00
+8,Spain,1162.00
+9,Chile,1146.00
+10,Poland,1118.00
+11,Peru,1106.00
+12,Denmark,1054.00
+13,England,1040.00
+14,Tunisia,1012.00
+15,Mexico,1008.00
+16,Colombia,989.00
+17,Uruguay,976.00
+18,Croatia,975.00
+19,Netherlands,969.00
+20,Italy,947.00
+21,Wales,931.00
+22,Iceland,930.00
+23,Sweden,889.00
+24,United States,880.00
+25,Costa Rica,858.00
+26,Austria,841.00
+27,Northern Ireland,837.00
+28,Senegal,825.00
+29,Slovakia,786.00
+30,Ukraine,777.00
+31,Republic of Ireland,776.00
+32,Romania,737.00
+33,Paraguay,737.00
+34,Scotland,735.00
+35,Serbia,732.00
+36,Iran,727.00
+37,Turkey,714.00
+38,Congo DR,711.00
+39,Venezuela,709.00
+40,Australia,700.00
+41,Bosnia-Herzegovina,688.00
+42,Morocco,681.00
+43,Montenegro,671.00
+44,Greece,657.00
+45,Czech Republic,647.00
+46,Egypt,636.00
+47,Nigeria,635.00
+48,Jamaica,612.00
+49,Norway,608.00
+50,Hungary,604.00
+51,Cameroon,603.00
+52,Ghana,603.00
+53,Burkina Faso,591.00
+54,Bulgaria,583.00
+55,Panama,575.00
+56,Albania,549.00
+57,Bolivia,548.00
+58,Cape Verde Islands,545.00
+59,Honduras,530.00
+60,Japan,528.00
+61,Korea Republic,520.00
+62,Algeria,516.00
+63,Finland,507.00
+64,Ecuador,506.00
+65,Slovenia,495.00
+66,Russia,493.00
+67,Mali,462.00
+68,Côte d'Ivoire,458.00
+69,Guinea,450.00
+70,Saudi Arabia,445.00
+71,Curaçao,439.00
+72,South Africa,433.00
+73,China PR,431.00
+74,Uganda,426.00
+75,Kyrgyzstan,424.00
+76,Syria,423.00
+77,FYR Macedonia,422.00
+78,Zambia,413.00
+79,Belarus,410.00
+80,Canada,407.00
+81,UAE,405.00
+82,Lebanon,404.00
+83,Luxembourg,401.00
+84,Palestine,401.00
+85,El Salvador,392.00
+86,Cyprus,386.00
+87,Oman,383.00
+88,Uzbekistan,381.00
+89,Iraq,381.00
+90,Benin,379.00
+91,Congo,378.00
+92,Trinidad and Tobago,374.00
+93,Gabon,374.00
+94,Estonia,364.00
+95,Faroe Islands,364.00
+96,Georgia,362.00
+97,India,354.00
+98,Armenia,347.00
+99,Israel,347.00
+100,Libya,341.00
+101,Qatar,339.00
+102,Sierra Leone,332.00
+103,Vietnam,331.00
+104,Guinea-Bissau,330.00
+105,Mauritania,323.00
+106,Mozambique,311.00
+107,Namibia,305.00
+108,Haiti,302.00
+109,Niger,299.00
+110,Zimbabwe,295.00
+111,Madagascar,293.00
+112,Korea DPR,292.00
+113,Kenya,289.00
+114,Philippines,289.00
+115,Central African Republic,283.00
+116,Bahrain,281.00
+117,Jordan,272.00
+118,Tajikistan,271.00
+119,Kazakhstan,269.00
+120,Malawi,267.00
+121,Chinese Taipei,263.00
+122,Thailand,253.00
+123,Rwanda,252.00
+124,Antigua and Barbuda,251.00
+125,Yemen,250.00
+126,St. Kitts and Nevis,245.00
+127,Azerbaijan,245.00
+128,Sudan,245.00
+129,Turkmenistan,242.00
+130,Togo,242.00
+131,Swaziland,240.00
+132,Andorra,230.00
+133,New Zealand,229.00
+134,Lithuania,229.00
+135,Myanmar,227.00
+136,Nicaragua,224.00
+137,Tanzania,223.00
+138,Angola,221.00
+139,Latvia,217.00
+140,Guatemala,198.00
+141,Comoros,195.00
+142,Hong Kong,194.00
+143,Afghanistan,194.00
+144,Equatorial Guinea,190.00
+145,Ethiopia,188.00
+146,Burundi,188.00
+147,Maldives,183.00
+148,Botswana,176.00
+149,Dominican Republic,175.00
+150,Lesotho,175.00
+151,Liberia,167.00
+152,Kosovo,164.00
+153,Solomon Islands,162.00
+154,Suriname,140.00
+155,South Sudan,139.00
+156,Vanuatu,136.00
+157,New Caledonia,135.00
+158,Puerto Rico,128.00
+159,Mauritius,122.00
+160,Barbados,118.00
+161,Tahiti,117.00
+162,Indonesia,111.00
+163,Guyana,111.00
+164,Nepal,111.00
+165,Chad,110.00
+166,Fiji,110.00
+167,Belize,107.00
+168,St. Lucia,105.00
+169,Cambodia,105.00
+170,Malaysia,104.00
+171,Grenada,103.00
+172,Singapore,102.00
+173,Moldova,98.00
+174,St. Vincent / Grenadines,95.00
+175,Gambia,94.00
+176,Kuwait,88.00
+177,Dominica,88.00
+178,Bermuda,82.00
+179,Laos,80.00
+180,Papua New Guinea,78.00
+181,Liechtenstein,77.00
+182,Cuba,75.00
+183,Aruba,75.00
+184,Bhutan,68.00
+185,Malta,62.00
+186,Macao,60.00
+187,São Tomé e Príncipe,59.00
+188,Mongolia,51.00
+189,Guam,45.00
+190,Timor-Leste,44.00
+191,American Samoa,38.00
+192,Cook Islands,38.00
+193,Samoa,38.00
+194,Brunei,36.00
+195,Seychelles,36.00
+196,Gibraltar,34.00
+197,Bangladesh,33.00
+198,Djibouti,27.00
+199,US Virgin Islands,18.00
+200,Montserrat,17.00
+201,Sri Lanka,17.00
+202,Turks and Caicos Islands,13.00
+203,Pakistan,10.00
+204,Cayman Islands,8.00
+205,San Marino,8.00
+206,British Virgin Islands,4.00
+207,Anguilla,0.00
+208,Bahamas,0.00
+209,Eritrea,0.00
+210,Somalia,0.00
+211,Tonga,0.00
